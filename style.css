@@ -98,11 +98,11 @@ img {
 table {
     width: 100%;
     border-collapse: collapse;
-    border-color: #279345;
+    border-color: black;
 }
 
 th {
-    background-color: #279345;
+    background-color: black;
     color: white;
     padding: 0.5rem;
 }
@@ -116,7 +116,7 @@ td {
 }
 
 tfoot td {
-    background-color: #29a93e;
+    background-color: black;
     color: whitesmoke;
 }
 
